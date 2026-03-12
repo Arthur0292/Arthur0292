@@ -1,7 +1,7 @@
 ## arthur0292 GitHub Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=arthur0292&show_icons=true&theme=tokyonight&hide_border=false" alt="Arthur's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arthur0292&show_icons=true&theme=dark&hide_border=false" alt="Arthur's GitHub stats" />
 </p>
 
 <p align="left">
