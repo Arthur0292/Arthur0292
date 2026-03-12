@@ -16,11 +16,13 @@
 </p>
 
 ### Tecnologias:
+
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="80" height="80" style="padding: 10px; border: 2px solid #575e6a; border-radius: 10px; margin-right: 40px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60" style="padding-right: 15px;"/>
   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="80" height="80" style="padding: 10px; border: 2px solid #575e6a; border-radius: 10px; margin-right: 40px;"/>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="80" height="80" style="padding: 10px; border: 2px solid #575e6a; border-radius: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="60" height="60" style="padding-right: 15px;"/>
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="eclipse" width="60" height="60" style="padding-right: 15px;"/>
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="60" height="60"/>
 </p>
-
