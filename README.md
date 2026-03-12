@@ -7,6 +7,11 @@
 <p align="left">
   <img src="https://github-readme-stats-one-gules-xao4nd63zr.vercel.app/api/top-langs/?username=arthur0292&layout=compact&theme=dark&count_private=true&hide=javascript,shell&v=3" alt="Linguagens do Arthur" />
 </p>
+
+<p align="left">
+  <img src="https://github-readme-stats-one-gules-xao4nd63zr.vercel.app/api/wakatime?username=arthur0292&layout=compact&theme=dark" alt="Coding Time do Arthur" />
+</p>
+
 ---
 
 <p align="left">
