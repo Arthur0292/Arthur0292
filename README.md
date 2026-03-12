@@ -1,11 +1,11 @@
 ## arthur0292 GitHub Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=arthur0292&show_icons=true&theme=dark&count_private=true&hide_border=false" alt="Arthur's GitHub stats" />
+  <img src="https://github-readme-stats-one-gules-xao4nd63zr.vercel.app/api?username=arthur0292&show_icons=true&theme=dark&count_private=true" alt="Arthur's GitHub stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur0292&layout=compact&theme=dark&count_private=true&hide_border=false" alt="Top Langs" />
+  <img src="https://github-readme-stats-one-gules-xao4nd63zr.vercel.app/api/top-langs/?username=arthur0292&layout=compact&theme=dark&count_private=true" alt="Top Langs" />
 </p>
 
 ---
@@ -19,8 +19,6 @@
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60" style="padding-right: 15px;"/>
-  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="60" height="60" style="padding-right: 15px;"/>
-  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="60" height="60"/>
 </p>
