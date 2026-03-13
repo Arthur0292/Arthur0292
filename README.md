@@ -15,7 +15,6 @@
 ---
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=arthur0292&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" /> 
   <img src="https://img.shields.io/github/followers/arthur0292?label=GitHub%20Followers&style=flat-square&color=24292e" alt="GitHub Followers" />
 </p>
 
