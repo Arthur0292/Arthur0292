@@ -1,7 +1,7 @@
 ## arthur0292 GitHub Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats-one-gules-xao4nd63zr.vercel.app/api?username=arthur0292&show_icons=true&theme=dark&count_private=true&v=6" alt="Stats do Arthur" />
+  <img src="https://github-readme-stats-one-gules-xao4nd63zr.vercel.app/api?username=arthur0292&show_icons=true&theme=dark&count_private=true&include_all_commits=true&v=6" alt="Stats do Arthur" />
 </p>
 
 <p align="left">
@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats-one-gules-xao4nd63zr.vercel.app/api/wakatime?username=arthur0292&layout=compact&theme=dark&v=6" alt="Coding Time do Arthur" />
+  <img src="https://github-readme-stats-one-gules-xao4nd63zr.vercel.app/api/wakatime?username=arthur0292&layout=compact&theme=dark&range=all_time&v=6" alt="Coding Time do Arthur" />
 </p>
 
 ---
