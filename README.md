@@ -1,8 +1,6 @@
 ## arthur0292 GitHub Analytics
 
-<p align="left">
-  <img src="https://github-readme-stats-one-gules-xao4nd63zr.vercel.app/api?username=arthur0292&show_icons=true&theme=dark&count_private=true&include_all_commits=true&v=6" alt="Stats do Arthur" />
-</p>
+
 
 <p align="left">
   <img src="https://github-readme-stats-one-gules-xao4nd63zr.vercel.app/api/top-langs/?username=arthur0292&layout=compact&theme=dark&count_private=true&hide=javascript,shell&v=6" alt="Linguagens do Arthur" />
