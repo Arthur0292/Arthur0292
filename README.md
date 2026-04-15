@@ -1,7 +1,5 @@
 ## arthur0292 GitHub Analytics
 
-
-
 <p align="left">
   <img src="https://github-readme-stats-one-gules-xao4nd63zr.vercel.app/api/top-langs/?username=arthur0292&layout=compact&theme=dark&count_private=true&hide=javascript,shell&v=6" alt="Linguagens do Arthur" />
 </p>
