@@ -1,10 +1,5 @@
 ## arthur0292 GitHub Analytics
 
-
-<p align="left">
-  <img src="https://github-readme-stats-one-gules-xao4nd63zr.vercel.app/api/top-langs/?username=arthur0292&layout=compact&theme=dark&count_private=true&hide=javascript,shell&v=6" alt="Linguagens do Arthur" />
-</p>
-
 <p align="left">
   <img src="https://github-readme-stats-one-gules-xao4nd63zr.vercel.app/api/wakatime?username=arthur0292&layout=compact&theme=dark&range=all_time&v=6" alt="Coding Time do Arthur" />
 </p>
