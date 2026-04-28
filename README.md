@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/github/followers/arthur0292?label=GitHub%20Followers&style=flat-square&color=24292e" alt="GitHub Followers" />
 </p>
 
-### Tecnologias:
+### technology:
 
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="c" width="60" height="60";"/>
