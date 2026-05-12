@@ -1,6 +1,6 @@
 ## arthur0292 GitHub Analytics
 
-      ___           ___           ___           ___           ___           ___     
+___           ___           ___           ___           ___           ___     
      /\  \         /\  \         /\  \         /\__\         /\__\         /\  \    
     /::\  \       /::\  \        \:\  \       /:/  /        /:/  /        /::\  \   
    /:/\:\  \     /:/\:\  \        \:\  \     /:/__/        /:/  /        /:/\:\  \  
@@ -10,7 +10,7 @@
       \::/  /     |:|::/  /    /:/  /           \::/  /   \:\  /:/  /     |:|::/  / 
       /:/  /      |:|\/__/     \/__/            /:/  /     \:\/:/  /      |:|\/__/  
      /:/  /       |:|  |                       /:/  /       \::/  /       |:|  |    
-     \/__/         \|__|                       \/__/         \/__/         \|__|    
+     \/__/         \|__|                       \/__/         \/__/         \|__|
 
 <p align="left">
   <img src="https://github-readme-stats-one-gules-xao4nd63zr.vercel.app/api/wakatime?username=arthur0292&layout=compact&theme=dark&range=all_time&v=6" alt="Coding Time do Arthur" />
