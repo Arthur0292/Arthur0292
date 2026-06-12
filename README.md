@@ -1,7 +1,7 @@
 ## arthur0292 GitHub Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats-one-gules-xao4nd63zr.vercel.app/api/wakatime?username=arthur0292&layout=compact&theme=dark&range=all_time&v=6" alt="Coding Time do Arthur" />
+  <img src="https://github-readme-stats-one-gules-xao4nd63zr.vercel.app/api/wakatime?username=arthur0292&layout=compact&theme=graywhite&range=all_time&v=6" alt="Coding Time do Arthur" />
 </p>
 
 ---
@@ -9,4 +9,3 @@
 <p align="left">
   <img src="https://img.shields.io/github/followers/arthur0292?label=GitHub%20Followers&style=flat-square&color=24292e" alt="GitHub Followers" />
 </p>
-
